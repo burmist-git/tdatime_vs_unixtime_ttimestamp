@@ -1,0 +1,10 @@
+*~
+data
+pcStatLog
+runanapcstat
+src/*~
+obj
+ntptools/
+ariterm1_RAM.pdf
+tDatime_vs_unixTime_tTimeStamp
+tDatime_vs_unixTime_tTimeStamp.root
